@@ -1,0 +1,9 @@
+{
+  "population_size": 250,
+  "max_generations": 500,
+  "mutation_rate": 0.17804575899080619,
+  "crossover_rate": 0.9394118846927804,
+  "elitism_count": 5,
+  "tournament_size": 8,
+  "verbose": false
+}

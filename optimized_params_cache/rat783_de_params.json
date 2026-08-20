@@ -1,0 +1,8 @@
+{
+  "population_size": 100,
+  "max_generations": 500,
+  "F": 0.7207805082202461,
+  "CR": 0.8478254022286159,
+  "strategy": "best/1/bin",
+  "verbose": false
+}
